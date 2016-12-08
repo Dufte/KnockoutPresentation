@@ -16,6 +16,7 @@ namespace TestWithRavenDb
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            //Tst with RavenDB
         }
     }
 }
